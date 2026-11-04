@@ -1,2 +1,2 @@
 # CarnetIA
-Aplicacion genera fotografias con fondos tamaño tipo carnel
+Aplicacion genera fotografias con fondos tamaño tipo carnet
